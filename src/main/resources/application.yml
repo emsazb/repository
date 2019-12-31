@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    username: a1z9deMjip
+    password: zYAj2MF9AP
+    url: jdbc:mysql://remotemysql.com:3306/a1z9deMjip
+
+  jpa:
+    database: MYSQL
+    show-sql: true
+    hibernate:
+      ddl-auto: create
